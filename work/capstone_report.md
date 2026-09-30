@@ -1,9 +1,9 @@
 # Capstone Report — Predictive SEO Content Decay
 
-- **Author:** Isha Maryam
+- **Author:** Ujjwal Kumar
 - **Lane:** Predictive Modeling / SEO Content Decay (Applied AI Track)
-- **Repo:** https://github.com/Isha-Maryam/Flyrank_ML_Internship_Capstone_
-- **Date:** August 26, 2026
+- **Repo:** https://github.com/ujjwalkumar14b/Flyrank_Internship
+- **Date:** September 30, 2026
 
 ## 1. Problem framing
 
@@ -75,8 +75,8 @@
 
 * **Fresh Clone Command:**
   ```bash
-  git clone https://github.com/Isha-Maryam/Flyrank_ML_Internship_Capstone_.git
-  cd Flyrank_ML_Internship_Capstone_
+  git clone https://github.com/ujjwalkumar14b/Flyrank_Internship.git
+  cd Flyrank_Internship
   pip install -r requirements.txt
   python scripts/run_pipeline.py
   ```
