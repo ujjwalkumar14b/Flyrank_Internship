@@ -59,8 +59,8 @@ An agentic AI assistant designed for Machine Learning Engineers to automate acad
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Isha-Maryam/Flyrank_ML_Internship_Capstone_.git
-   cd Flyrank_ML_Internship_Capstone_/work
+   git clone https://github.com/ujjwalkumar14b/Flyrank_Internship.git
+   cd Flyrank_Internship/work
    ```
 
 2. **Configure your API Key:**
